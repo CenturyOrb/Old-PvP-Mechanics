@@ -1,0 +1,4 @@
+name: Old-PvP
+version: '1.0-SNAPSHOT'
+main: com.rosed.oldpvp.Old_PvP_Mechanics
+api-version: '1.19'

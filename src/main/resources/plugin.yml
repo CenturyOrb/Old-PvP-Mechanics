@@ -1,0 +1,4 @@
+name: Old-PvP
+version: '${project.version}'
+main: com.rosed.oldpvp.Old_PvP_Mechanics
+api-version: '1.19'
